@@ -11,7 +11,7 @@ in the works. You can follow the progress on my GameJolt!
 GameJolt: [SzymexStudio GameJolt](https://gamejolt.com/invite/SzymexStudio)
 
 
-## + Create the Best Mod for **Friday Night Funkin** in a Simple Way!
+## *Create the Best Mod for **Friday Night Funkin** in a Simple Way!
 
 Our Engine is supposed to be easy to use and contain a lot of necessary 
 functions. We are trying to make sure that our engine has enough features 
