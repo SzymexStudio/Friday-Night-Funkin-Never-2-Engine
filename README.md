@@ -23,24 +23,25 @@ Our Engine contains more than the usual Friday Night Funkin.
 
 - Developer Menu (in Modes Menu press '8')
 - Stage Editor (in Developer Menu)
-Week Editor (in Developer Menu)
-Chart Editor (In game press '7')
-Characters Editor (in Developer Menu)
-Dialogue Editor (Comming Soon)
-Character Images Frames Offsets
-New UI (Freeplay,Options,StoryMode)
-Custom Background in Start Menu (Customize with Script)
-Customizes Menus with Script (INI Files)
-Events System
-Transparent HUD option
-Transparent Notes option
-Statistic Tabele (in game)
-New Rating System (%,Sick,Good,Bad,Combo)
-Load Animations from file (CF 2.5)
-Custom Arrow (Comming Soon)
-Gradient Song Bar
-Customize Song Bar Colors (In options)
-Dialogues In Game (Create TXT file 'Dialogue.txt' in song folder)
-Video Cutscene and Cutscene (Comming Soon)
-Down Scroll (in game)
+- Week Editor (in Developer Menu)
+- Chart Editor (In game press '7')
+- Characters Editor (in Developer Menu)
+- Dialogue Editor (Comming Soon)
+- Character Images Frames Offsets
+- New UI (Freeplay,Options,StoryMode)
+- Custom Background in Start Menu (Customize with Script)
+- Customizes Menus with Script (INI Files)
+- Events System
+- Transparent HUD option
+- Transparent Notes option
+- Statistic Tabele (in game)
+- New Rating System (%,Sick,Good,Bad,Combo)
+- Load Animations from file (CF 2.5)
+- Custom Arrow (Comming Soon)
+- Gradient Song Bar
+- Customize Song Bar Colors (In options)
+- Dialogues In Game (Create TXT file 'Dialogue.txt' in song folder)
+- Video Cutscene and Cutscene (Comming Soon)
+- Down Scroll (in game)
+- easy file coding style
 
