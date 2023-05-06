@@ -19,7 +19,7 @@ to make the best mod for Friday Night Funkin.
 
 Our Engine contains more than the usual Friday Night Funkin. 
 
-**Engine Features**
+**1. Engine Features**
 
 - Developer Menu (in Modes Menu press '8')
 - Stage Editor (in Developer Menu)
@@ -45,3 +45,17 @@ Our Engine contains more than the usual Friday Night Funkin.
 - Down Scroll (in game)
 - easy file coding style
 
+Our engine includes a unique Stage Editor which is not found in any other engine for Friday Night Funkin.
+
+**2. Engine Functionality**
+
+Due to the fact that Clickteam Fusion has certain limitations the engine also has them. So loading 
+graphics has some limitations, but the engine is optimized in this regard, so you do not have to worry 
+about lag in the game. Back to the limitations. Here is a list of limitations for which we do not have a 
+solution at the moment. 
+
+- Restrictions
+ **1. Changing characters during a song.**
+  - This causes terrible lags that are not welcome in the game. Of course, we are still thinking how to solve this problem
+ **2. Animations in the scene.**
+  - Clickteam does not allow you to create Animations in the object while the application is running. However, that we already have a plan how to make Animation objects in scenes only that it would be a limited number of objects. 
