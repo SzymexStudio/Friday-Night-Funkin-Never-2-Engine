@@ -21,8 +21,8 @@ Our Engine contains more than the usual Friday Night Funkin.
 
 **Engine Features**
 
-Developer Menu (in Modes Menu press '8')
-Stage Editor (in Developer Menu)
+- Developer Menu (in Modes Menu press '8')
+- Stage Editor (in Developer Menu)
 Week Editor (in Developer Menu)
 Chart Editor (In game press '7')
 Characters Editor (in Developer Menu)
