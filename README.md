@@ -55,7 +55,7 @@ about lag in the game. Back to the limitations. Here is a list of limitations fo
 solution at the moment. 
 
 ! Restrictions
- **+ Changing characters during a song.**
-  - This causes terrible lags that are not welcome in the game. Of course, we are still thinking how to solve this problem
- **+. Animations in the scene.**
-  - Clickteam does not allow you to create Animations in the object while the application is running. However, that we already have a plan how to make Animation objects in scenes only that it would be a limited number of objects. 
+ **- Changing characters during a song.**
+    - This causes terrible lags that are not welcome in the game. Of course, we are still thinking how to solve this problem
+ **- Animations in the scene.**
+    - Clickteam does not allow you to create Animations in the object while the application is running. However, that we already have a plan how to make Animation  objects in scenes only that it would be a limited number of objects. 
