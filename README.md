@@ -8,5 +8,5 @@ by Ninjamuffin99, The engine itself is made by me. The whole game
 is put on the Clickteam Fusion engine. The engine itself is still 
 in the works. You can follow the progress on my GameJolt!
 
-GameJolt: https://gamejolt.com/invite/SzymexStudio
+GameJolt: [SzymexStudio GameJolt](https://gamejolt.com/invite/SzymexStudio)
 
