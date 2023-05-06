@@ -54,7 +54,7 @@ graphics has some limitations, but the engine is optimized in this regard, so yo
 about lag in the game. Back to the limitations. Here is a list of limitations for which we do not have a 
 solution at the moment. 
 
-- Restrictions
+! Restrictions
  **1. Changing characters during a song.**
   - This causes terrible lags that are not welcome in the game. Of course, we are still thinking how to solve this problem
  **2. Animations in the scene.**
