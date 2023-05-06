@@ -63,3 +63,7 @@ solution at the moment.
 **3. Engine Preview**
 
 ![MainMenu](https://user-images.githubusercontent.com/96202764/236612396-90dd024c-aa7f-47ef-b32a-53ebc37668fe.png)
+![ModesMenu](https://user-images.githubusercontent.com/96202764/236612526-767f2ab9-6115-4e46-9214-01361a21ffd2.png)
+![FreePlay](https://user-images.githubusercontent.com/96202764/236612647-6db162ff-cc33-49e6-a553-de059e497332.png)
+![Options](https://user-images.githubusercontent.com/96202764/236613020-105f9330-110f-43a9-a5e2-ba9a084a173e.png)
+
