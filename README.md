@@ -17,6 +17,8 @@ Our Engine is supposed to be easy to use and contain a lot of necessary
 functions. We are trying to make sure that our engine has enough features 
 to make the best mod for Friday Night Funkin.
 
+**YOU NEED CLICKTEAM FUSION 2.5+ 292.22 TO USE SOURCE CODE**
+
 Our Engine contains more than the usual Friday Night Funkin. 
 
 **1. Engine Features**
@@ -44,6 +46,8 @@ Our Engine contains more than the usual Friday Night Funkin.
 - Video Cutscene and Cutscene (Comming Soon)
 - Down Scroll (in game)
 - easy file coding style
+- Custom Font (Configurate in dialog box file)
+- Support DX9 & DX11
 
 Our engine includes a unique Stage Editor which is not found in any other engine for Friday Night Funkin.
 
