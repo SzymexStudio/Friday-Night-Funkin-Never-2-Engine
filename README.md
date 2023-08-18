@@ -62,7 +62,10 @@ solution at the moment.
  - **Changing characters during a song.**
     - This causes terrible lags that are not welcome in the game. Of course, we are still thinking how to solve this problem
  - **Animations in the scene.**
-    - Clickteam does not allow you to create Animations in the object while the application is running. However, that we already have a plan how to make Animation  objects in scenes only that it would be a limited number of objects. 
+    - Clickteam does not allow you to create Animations in the object while the application is running. However, that we already have a plan how to make Animation  objects in scenes only that it would be a limited number of objects.
+    - **Custom Font in DX11**
+       - Unfortunately to use fonts in DX11 you have to create a mod in source code, Clickteam fusion unfortunately has problems  
+         with loading fonts from external files in DX11  
 
 **3. Engine Preview**
 
