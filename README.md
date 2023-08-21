@@ -48,6 +48,7 @@ Our Engine contains more than the usual Friday Night Funkin.
 - easy file coding style
 - Custom Font (Configurate in dialog box file)
 - Support DX9 & DX11
+- Support BPM in chart editor
 
 Our engine includes a unique Stage Editor which is not found in any other engine for Friday Night Funkin.
 
