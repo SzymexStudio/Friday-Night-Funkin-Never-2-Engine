@@ -39,7 +39,7 @@ Our Engine contains more than the usual Friday Night Funkin.
 - Statistic Tabele (in game)
 - New Rating System (%,Sick,Good,Bad,Combo)
 - Load Animations from file (CF 2.5)
-- Custom Arrow (Comming Soon)
+- Custom Notes (Comming Soon)
 - Gradient Song Bar
 - Customize Song Bar Colors (In options)
 - Dialogues In Game (Create TXT file 'Dialogue.txt' in song folder)
@@ -49,6 +49,7 @@ Our Engine contains more than the usual Friday Night Funkin.
 - Custom Font (Configurate in dialog box file)
 - Support DX9 & DX11
 - Support BPM in chart editor
+- Support Custom Animation for GameStage Characters
 
 Our engine includes a unique Stage Editor which is not found in any other engine for Friday Night Funkin.
 
