@@ -17,6 +17,10 @@ Our Engine is supposed to be easy to use and contain a lot of necessary
 functions. We are trying to make sure that our engine has enough features 
 to make the best mod for Friday Night Funkin.
 
+We will want our engine to be as convenient to use as possible. 
+contained enough features to create advanced mods that require delving into the source code 
+without having to delve into the source code. We want to make all this easy.
+
 **YOU NEED CLICKTEAM FUSION 2.5+ 292.22 TO USE SOURCE CODE (For now, but we will try to port to older versions of clickteam.)**
 
 Our Engine contains more than the usual Friday Night Funkin. 
