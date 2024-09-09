@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6c79388a-b9d6-4456-9f58-a519c58b6a08)## Friday Night Funkin Never 2 Engine (Work In Progress)
+## Friday Night Funkin Never 2 Engine (Work In Progress)
 Friday Night Funkin Never 2 Engine Project Repository!
 
 What is the Friday Night Funkin Never 2 Engine?
