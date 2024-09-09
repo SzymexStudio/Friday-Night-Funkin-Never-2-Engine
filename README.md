@@ -1,6 +1,8 @@
 ## Friday Night Funkin Never 2 Engine (Work In Progress)
 Friday Night Funkin Never 2 Engine Project Repository!
 
+![image](https://github.com/user-attachments/assets/8e584a3a-0fbf-435a-8781-d655ebd79b8b)
+
 What is the Friday Night Funkin Never 2 Engine?
 
 This is a universal engine for the game Friday Night Funkin made 
