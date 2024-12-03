@@ -51,7 +51,7 @@ Our Engine contains more than the usual Friday Night Funkin.
 
 - Customizes Menus with Script (INI Files)
 
-- dvanced Events System (Event List on my github)
+- Advanced Events System (Event List on my github)
 
 - Transparent HUD option
 
