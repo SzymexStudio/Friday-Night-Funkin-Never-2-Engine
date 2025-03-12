@@ -23,6 +23,13 @@ We will want our engine to be as convenient to use as possible.
 contained enough features to create advanced mods that require delving into the source code 
 without having to delve into the source code. We want to make all this easy.
 
+## Lua Language Support
+
+Thanks to lua language support you can create advanced scripts that allow you to create various advanced 
+combinations in your fashion. You have a lot of room for improvement with these scripts,of course we also 
+thought of everyone so the lua scripts are simplified in a way so you don't have to bother creating some 
+advanced combinations!!!
+
 **YOU NEED CLICKTEAM FUSION 2.5+ 292.22 TO USE SOURCE CODE (For now, but we will try to port to older versions of clickteam.)**
 
 Our Engine contains more than the usual Friday Night Funkin. 
