@@ -90,6 +90,10 @@ Our Engine contains more than the usual Friday Night Funkin.
 
 - Support BPM in Chart Editor
 
+- Lua Scripts Support *( NEW )*
+
+- Delta Time Support *( NEW )*
+
 - Our engine includes a unique Stage Editor which is not found in any other engine for Friday Night Funkin.
 
 **2. Engine Functionality**
